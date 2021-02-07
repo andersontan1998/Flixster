@@ -28,7 +28,7 @@ Portrait and Landscape Representation
 
 <img src="https://github.com/andersontan1998/Flixster/blob/main/Portrait.gif" width=250><br> 
 
-<img src="https://github.com/andersontan1998/Flixster/blob/main/Landscape.gif" width=250><br>
+<img src="https://github.com/andersontan1998/Flixster/blob/main/Landscape.gif" width=500><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
