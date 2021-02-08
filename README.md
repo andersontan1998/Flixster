@@ -24,14 +24,26 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-Portrait and Landscape Representation
+**Portrait and Landscape Representation**
 
 <img src="https://github.com/andersontan1998/Flixster/blob/main/Portrait.gif" width=250><br> 
 
 <img src="https://github.com/andersontan1998/Flixster/blob/main/Landscape.gif" width=500><br>
 
+**A placeholder was used for each image during loading.** 
+
+Since the app is ran on an emulator, the network speed of the emulator must be adjusted to test this feature0
+
+<img src="https://github.com/andersontan1998/Flixster/blob/main/Placeholder.gif" width=250><br> 
+
+<img src="https://github.com/andersontan1998/Flixster/blob/main/Portrait_Placeholder.gif" width=250><br> 
+
+<img src="https://github.com/andersontan1998/Flixster/blob/main/Landscape_Placeholder.gif" width=500><br> 
+
+
+
 ### Notes
-Describe any challenges encountered while building the app.
+The most challenging part of the assignment was to adjust the network speed so that the placeholder would show during loading instead of the poster/backdrop image.
 
 ### Open-source libraries used
 
